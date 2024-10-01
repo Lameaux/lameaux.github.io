@@ -8,6 +8,6 @@ How do you approach this task? Do you estimate, check historical data, or run si
 
 The only reliable way to provide a confident answer is to simulate the load. 
 
-Check out [nft](https://github.com/lameaux/nft) repo to see my tools in action!
+Check out [nft repo](https://github.com/lameaux/nft) to see my tools in action!
 
 ![bro-mox-grafana](https://github.com/user-attachments/assets/dfd28fb6-fb38-4c82-9cfb-84601d105668)
